@@ -78,7 +78,7 @@ Swal.fire({
           {index+1}
         </th>
         <td>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 p-4">
             <div className="avatar">
               <div className="mask mask-squircle h-12 w-12">
                 <img
