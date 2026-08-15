@@ -205,7 +205,7 @@ setUseBid(newBid)
         {index+1}
         </th>
         <td>
-          <div className="flex items-center gap-3">
+          <div className="flex items-center py-4 gap-3">
             <div className="avatar">
               <div className="mask mask-squircle h-12 w-12">
                 <img
